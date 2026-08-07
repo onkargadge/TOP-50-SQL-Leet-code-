@@ -14,5 +14,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/1683-invalid-tweets) |
+| [1934-confirmation-rate](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

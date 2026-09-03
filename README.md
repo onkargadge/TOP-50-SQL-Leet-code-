@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/onkargadge/TOP-50-SQL-Leet-code-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
